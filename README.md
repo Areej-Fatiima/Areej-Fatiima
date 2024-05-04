@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areej-fatiima&label=Profile%20views&color=0e75b6&style=flat" alt="areej-fatiima" /> </p>
 
-- 🔭 I’m currently working on **Mobile App**
+- 🔭 I’m currently working on **Mobile App development**
 
 - 🌱 I’m currently learning **React Native**
 
